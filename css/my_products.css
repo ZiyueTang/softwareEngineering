@@ -1,0 +1,91 @@
+#checkout {
+	padding:5em 0;
+}
+#container {
+	padding-right: 15px;
+	padding-left: 15px;
+	margin-right: auto;
+	margin-left: auto;
+	width: 1170px;
+}
+#container:before,#container:after{
+	display: table;
+  	content: " ";
+}
+#container:after {
+	clear: both;
+}
+#table {
+	width:100%;
+	margin:0 auto;
+}
+#table thead {
+    background: #004284;
+}
+#table th{
+    background:#D8703F;
+    color: #fff;
+    text-transform: capitalize;
+    font-size: 14px;
+    text-align: center;
+    padding: 7px;
+}
+#table td {
+    text-align: center;
+    padding: 7px;
+    font-size: 14px; 
+}
+
+#img {
+	height: 120px;
+	width: 100px;
+}
+
+#rem {
+	position:relative;
+}
+.close {
+	background: url("../images/close.png") no-repeat 0px 0px;
+    cursor: pointer;
+    width: 28px;
+    height: 28px;
+    top: -4px;
+    right: 40px;
+    position: absolute;
+}
+
+#add {
+	margin-top: 60px;
+	float: right;
+	padding:10px 30px;
+	color:#fff;
+	font-size:1em;
+	background:#212121;
+	text-decoration:none;
+	border: 0;
+}
+#add:hover{
+	background:#D8703F;
+}
+
+/*css for cart.php*/
+#count {
+	font-family: 'Lato', sans-serif;
+	font-size: 16px;
+	font-weight: 500;
+	color: black;
+	margin-top: 20px;
+  	margin-bottom: 40px;
+}
+#num {
+	color: #D8703F;
+}
+.rem div {
+	background: url("../images/close.png") no-repeat 0px 0px;
+    cursor: pointer;
+    width: 28px;
+    height: 28px;
+    top: -4px;
+    right: 40px;
+    position: absolute;
+}

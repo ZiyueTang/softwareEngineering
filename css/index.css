@@ -1,0 +1,41 @@
+#banner{
+	background:url(../images/banner.jpg) no-repeat 0px 0px;
+	background-size:cover;
+	min-height:600px;
+	width: 100%;
+	margin-bottom: 5px;
+	margin-top: -130px;
+}
+
+#banner-info h1{
+	font-size:5em;
+	font-weight: 500;
+	color:#fff;
+	padding-top: 100px;
+	margin:40px;
+}
+#banner-info {
+    margin: 9em 0 0;
+    text-align: center;
+}
+#banner-info h2{
+	font-size: 3em;
+    color: #fff;
+    margin: 0em 0 0 7.5em;
+	font-weight:350;
+	font-family: 'Lato', sans-serif;
+}
+#banner-wrap{
+	padding:0px 0 5em;
+}
+
+#banner-info1 p{
+	font-size:24px;
+	font-weight: 350;
+	color:#fff;
+	margin:100px;
+	line-height:1.8em;
+	width:80%;
+}
+
+

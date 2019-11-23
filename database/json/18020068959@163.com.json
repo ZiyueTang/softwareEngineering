@@ -1,0 +1,28 @@
+{
+    "password":"tzy789",
+	"username":"tzy",
+    "city":"Beijing",
+    "birthday":"1995-6-3",
+    "myproduct":[
+        {
+            "pro_name":"desk",
+            "pro_id":23,
+            "date":"2019-3-19",
+            "quantity":3,
+            "category":"Furniture",
+            "change_into":"a T-shirt for men",
+            "description":"The T-shirt is a new one. I want ro swap it for shoes.",
+            "image":["images/products/1A266928-69A1-0FF4-CE6D-9A60A03A34161.jpg"]
+        },
+        {
+            "pro_name":"chair",
+            "pro_id":24,
+            "date":"2019-3-21",
+            "quantity":1,
+            "category":"Furniture",
+            "change_into":"a T-shirt for men",
+            "description":"The T-shirt is a new one. I want ro swap it for a c++ book.",
+            "image":["images/products/E7A78784-3714-B6D8-3DF7-CD4F7CCD77AF0.jpg"]
+        }
+    ]
+}
